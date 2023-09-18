@@ -107,6 +107,10 @@ summary{
     margin-left: 80px;
     margin-top: 50px;
 }
+
+.title button:hover{
+    opacity: 0.8;
+}
 .title button a{
     color: black;
     text-decoration: none;
@@ -137,9 +141,13 @@ summary{
     transition: 0.3s;
     border-radius: 5px;
     margin: 15px;
+   
     
     
-    
+}
+
+.card-container:hover{
+    opacity: 0.9;
 }
 
 .Photo{
@@ -181,6 +189,7 @@ summary{
 .name-of-contest{
     min-height: auto;
 }
+
 
 #explore2{
     width: 100px;
